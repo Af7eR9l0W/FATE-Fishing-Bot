@@ -4,7 +4,7 @@ A fully automated, state-machine driven fishing bot for the RPG game **FATE**.
 This engine has been completely decoupled to prevent CPU exhaustion and softlocks, featuring a highly-optimized bounded-region vision algorithm that eliminates false positives.
 
 ## Action Showcase
-<video src="./assets/4ux3sp_1.mp4" autoplay loop muted playsinline></video>
+![Action Showcase](./assets/showcase.gif)
 
 ## Requirements & Dependencies
 
